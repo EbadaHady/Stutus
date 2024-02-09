@@ -31,7 +31,7 @@ client.on('ready', async () => {
     .setDetails(`EBADA Community`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1201191374893105263/1205608988276949013/200-2.gif?ex=65d8fddd&is=65c688dd&hm=c4aa3878f306ee718ee85aad87a974c422efa2990a6c860d439997cfb9df914b&') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('الـخـطـاف') //Text when you hover the Large image
+    .setAssetsLargeText('EBADA Community') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1077716803435909232/1169543166999937024/Verification.png') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Social Media Management') //Text when you hover the Small image
     .addButton('FaceBook', 'https://www.facebook.com/hady.ahmed.9638')
