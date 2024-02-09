@@ -44,7 +44,7 @@ client.on('ready', async () => {
   setInterval(() => {
     const newTime = formatTime();
     if (newTime !== prevTime) {
-      const newDetails = `EBADA Community`;
+      const newDetails = `HADY-EBADA`;
       r.setDetails(newDetails);
       client.user.setActivity(r);
       prevTime = newTime;
