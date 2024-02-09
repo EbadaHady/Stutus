@@ -27,8 +27,8 @@ client.on('ready', async () => {
     .setType('STREAMING')
     .setURL('https://bit.ly/DSH-TK') //Must be a youtube video link 
     .setState('Social Media Management')
-    .setName('EBADA Community')
-    .setDetails(`الـخـطـاف`)
+    .setName('HADY-EBADA')
+    .setDetails(`EBADA Community`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1201191374893105263/1205608988276949013/200-2.gif?ex=65d8fddd&is=65c688dd&hm=c4aa3878f306ee718ee85aad87a974c422efa2990a6c860d439997cfb9df914b&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('الـخـطـاف') //Text when you hover the Large image
